@@ -15,3 +15,7 @@
 ```bash
 git clone https://github.com/nmnl256/SE1.git
 cd SE1
+
+## Использование
+
+./script.sh путь/к/исходной/директории путь/к/целевой/директории
