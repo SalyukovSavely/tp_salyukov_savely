@@ -1,5 +1,7 @@
 # Описание
 
+![CI](https://github.com/SalyukovSavely/tp_salyukov_savely/T32/actions/workflows/maven.yml/badge.svg)
+
 В программе sumoperation.java выполняет четыре основные операции с числами, считанными из файла: вычисление минимума, максимума, суммы и произведения. Она включает пять функций:
 
     getList(): Преобразует содержимое файла в список чисел.
